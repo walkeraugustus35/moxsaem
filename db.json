@@ -4,7 +4,7 @@
         "Success": true,
         "error": "",
         "body": {
-            "isYes": true,
+            "isYes": false,
             "version": "6",
             "gamename": "Mobile phone",
             "versionName": "4.0",
